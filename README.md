@@ -22,9 +22,9 @@ Sensors
 Camera
   - Camera will sometimes take a picture, however it will -ALWAYS- cause the device to crash
 
-## How to Install
+# How to Install
 1. Download all three .img files for your device (Coming Soon)
-# 2. Backup any personal data you wish to save
+### 2. Backup any personal data you wish to save
 3. Format /data/ to ext4 (Ubuntu Touch is not compatible with F2FS and will not work if you do not do this step)
 4. While in TWRP on your host machine (what you connect your device to) do
    - adb push <path>/<to>/<files>/system.img /data/
@@ -32,4 +32,4 @@ Camera
 5. Install halium-boot.img using TWRP to your boot partition
 6. verify last 3 steps successfully completed, retry if they have not
 7. Reboot and go through setup process
-# The Password for the rootfs is 1234
+### The Password for the rootfs is 1234
