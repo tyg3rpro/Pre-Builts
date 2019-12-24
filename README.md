@@ -32,3 +32,4 @@ Camera
 5. Install halium-boot.img using TWRP to your boot partition
 6. verify last 3 steps successfully completed, retry if they have not
 7. Reboot and go through setup process
+# The Password for the rootfs is 1234
