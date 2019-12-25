@@ -23,7 +23,8 @@ Camera
   - Camera will sometimes take a picture, however it will -ALWAYS- cause the device to crash
 
 # How to Install
-1. Download all three .img files for your device (Coming Soon)
+1. Download all three .img files for your device [WIP]
+  - http://tygercraft.duckdns.org/UBPorts/
 ### 2. Backup any personal data you wish to save
 3. Format /data/ to ext4 (Ubuntu Touch is not compatible with F2FS and will not work if you do not do this step)
 4. While in TWRP on your host machine (what you connect your device to) do
